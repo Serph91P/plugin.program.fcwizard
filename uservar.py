@@ -27,7 +27,7 @@ APKFILE = 'http://'
 YOUTUBETITLE = ''
 YOUTUBEFILE = 'http://'
 # Text File for addon installer.  Leave as 'http://' to ignore
-ADDONFILE = 'http://'
+ADDONFILE = 'https://raw.githubusercontent.com/Serph91P/plugin.program.fcwizard/master/build_info/addons.json'
 # Text File for advanced settings.  Leave as 'http://' to ignore
 ADVANCEDFILE = 'http://'
 #########################################################
@@ -100,7 +100,12 @@ REPOID = 'repository.fcwizard'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
 REPOADDONXML = 'https://raw.githubusercontent.com/Serph91P/plugin.program.fcwizard/master/addon.xml'
 # Url to folder zip is located in
-REPOZIPURL = 'https://raw.githubusercontent.com/Serph91P/plugin.program.fcwizard/master/zips/repository.fcwizard/'
+REPOZIPURL = 'https://a4k-openproject.github.io/repository.openwizard/'
+REPOZIPURL = 'https://tikipeter.github.io/'
+REPOZIPURL = 'https://nixgates.github.io/packages'
+REPOZIPURL = 'https://umbrellaplug.github.io/'
+REPOZIPURL = 'https://a4k-openproject.github.io/a4kSubtitles/packages'
+REPOZIPURL = 'https://jurialmunkey.github.io/repository.jurialmunkey/'
 #########################################################
 
 #########################################################

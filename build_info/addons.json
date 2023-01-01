@@ -1,0 +1,17 @@
+{
+    "addons": [
+      {
+        "name": "Fen",
+        "type": "addon",
+        "section": false,
+        "plugin": "plugin.video.fen",
+        "url": "https://kodi-community-addons.github.io/repository.tikipeter/plugin.audio.spotify/",
+        "repository": "repository.tikipeter",
+        "repositoryxml": "https://raw.githubusercontent.com/Tikipeter/repository.tikipeter/master/zips/addons.xml",
+        "repositoryurl": "https://tikipeter.github.io/",
+        "icon": "",
+        "adult": false,
+        "description": "Fen"
+      }
+    ]
+  }
