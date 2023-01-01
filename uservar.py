@@ -27,7 +27,7 @@ APKFILE = 'http://'
 YOUTUBETITLE = ''
 YOUTUBEFILE = 'http://'
 # Text File for addon installer.  Leave as 'http://' to ignore
-ADDONFILE = 'http://'
+ADDONFILE = 'https://raw.githubusercontent.com/Serph91P/plugin.program.fcwizard/master/build_info/addons.json'
 # Text File for advanced settings.  Leave as 'http://' to ignore
 ADVANCEDFILE = 'http://'
 #########################################################
