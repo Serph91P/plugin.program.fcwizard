@@ -1,9 +1,5 @@
-id="plugin.program.fcwizard"
-version="0.0.1"
-zip="url.to.wizard"
-
-name="Example Build 1"
-version="1.0"
+name="FC Build"
+version="0.1"
 url="http://your.build.url/"
 minor="http://"
 gui="http://your.guisettings.url/"
