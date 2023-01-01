@@ -13,8 +13,8 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 #        User Edit Variables                            #
 #########################################################
-ADDONTITLE = '[COLOR limegreen][B]Open[/B][/COLOR]Wizard'
-BUILDERNAME = 'OpenWizard'
+ADDONTITLE = '[COLOR limegreen][B]FC[/B][/COLOR]Wizard'
+BUILDERNAME = 'FCWizard'
 EXCLUDES = [ADDON_ID, 'repository.openwizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
 BUILDFILE = 'http://'
