@@ -1,6 +1,6 @@
 name="FC Build"
 version="0.1"
-url="https://mebert-server.de/fcbuild.zip"
+url="https://dirty.seedhost.eu/engraved8737/fcbuild.zip"
 minor="http://"
 gui="http://"
 kodi="19.5"
