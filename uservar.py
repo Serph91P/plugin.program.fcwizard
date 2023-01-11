@@ -106,6 +106,7 @@ REPOZIPURL = 'https://nixgates.github.io/packages'
 REPOZIPURL = 'https://umbrellaplug.github.io/'
 REPOZIPURL = 'https://a4k-openproject.github.io/a4kSubtitles/packages'
 REPOZIPURL = 'https://jurialmunkey.github.io/repository.jurialmunkey/'
+REPOZIPURL = 'https://croneter.github.io/pkc-source'
 #########################################################
 
 #########################################################
