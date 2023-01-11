@@ -14,7 +14,7 @@ description="FC Build"
 
 name="FC Plex Build"
 version="1.0"
-url="https://mebert-server.de/Plex.zip"
+url="https://mebert-server.de/plex.zip"
 minor="http://"
 gui="http://"
 kodi="19"
