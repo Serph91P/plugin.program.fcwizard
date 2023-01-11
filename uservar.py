@@ -20,7 +20,7 @@ EXCLUDES = [ADDON_ID, 'repository.openwizard']
 BUILDFILE = 'https://raw.githubusercontent.com/Serph91P/plugin.program.fcwizard/master/build_info/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
-UPDATECHECK = 0
+UPDATECHECK = 3
 # Text File with apk info in it.  Leave as 'http://' to ignore
 APKFILE = 'http://'
 # Text File with Youtube Videos urls.  Leave as 'http://' to ignore
