@@ -14,7 +14,7 @@ description="Plex Build to use Kodi as frontend for Plex"
 
 name="Twitch Build"
 version="1.0"
-url="https://mebert-server.de/twitch-1.0.zip"
+url="https://mebert-server.de/twitch-1.1.zip"
 minor="http://"
 gui="http://"
 kodi="19"
