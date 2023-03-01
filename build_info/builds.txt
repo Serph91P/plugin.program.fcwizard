@@ -1,6 +1,6 @@
 name="Plex Build"
-version="1.5"
-url="https://mebert-server.de/plex-1.5.zip"
+version="1.7"
+url="https://mebert-server.de/plex-1.7.zip"
 minor="http://"
 gui="http://"
 kodi="19"
