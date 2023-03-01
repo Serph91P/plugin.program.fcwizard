@@ -1,6 +1,6 @@
 name="Plex Build"
 version="1.8"
-url="https://mebert-server.de/plex-1.8.zip"
+url="https://github.com/Serph91P/build_files/raw/a8163b6cf1e6ae2504fcbdcb0ae7aede1af55535/plex-1.8.zip"
 minor="http://"
 gui="http://"
 kodi="19"
