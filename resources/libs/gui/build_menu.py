@@ -120,6 +120,17 @@ class BuildMenu:
                     if CONFIG.SHOW19 == 'true':
                         self._list_all(match, kodiv=19)
 
+        if len(match) >= 1:
+            if CONFIG.SEPARATE == 'true':
+                self._list_all(match)
+            else:
+                if count20 > 0:
+                    state = '+' if CONFIG.SHOW20 == 'false' else '-'
+                    directory.add_file('[B]{0} Nexus Builds ({1})[/B]'.format(state, count20), {'mode': 'togglesetting',
+                                       'name': 'show20'}, themeit=CONFIG.THEME3)
+                    if CONFIG.SHOW20 == 'true':
+                        self._list_all(match, kodiv=20)
+
         elif hidden > 0:
             if adultcount > 0:
                 directory.add_file('There is currently only Adult builds', icon=CONFIG.ICONBUILDS,
