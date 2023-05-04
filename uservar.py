@@ -100,13 +100,7 @@ REPOID = 'repository.fcwizard'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
 REPOADDONXML = 'https://raw.githubusercontent.com/Serph91P/plugin.program.fcwizard/master/addon.xml'
 # Url to folder zip is located in
-REPOZIPURL = 'https://a4k-openproject.github.io/repository.openwizard/'
-REPOZIPURL = 'https://tikipeter.github.io/'
-REPOZIPURL = 'https://nixgates.github.io/packages'
-REPOZIPURL = 'https://umbrellaplug.github.io/'
 REPOZIPURL = 'https://a4k-openproject.github.io/a4kSubtitles/packages'
-REPOZIPURL = 'https://jurialmunkey.github.io/repository.jurialmunkey/'
-REPOZIPURL = 'https://croneter.github.io/pkc-source'
 #########################################################
 
 #########################################################
