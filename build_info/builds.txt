@@ -1,6 +1,6 @@
 name="Composite Build"
-version="0.6"
-url="https://github.com/Serph91P/build_files/raw/main/composite-0.6.zip"
+version="0.7"
+url="https://github.com/Serph91P/build_files/raw/main/composite-0.7.zip"
 minor="http://"
 gui="http://"
 kodi="20"
