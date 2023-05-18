@@ -1,6 +1,6 @@
 name="Composite Build"
 version="0.9.5"
-url="https://mebert-server.de/composite-0.9.5.zip"
+url="https://mebert-server.de/composite-0.9.6.zip"
 minor="http://"
 gui="http://"
 kodi="20"
